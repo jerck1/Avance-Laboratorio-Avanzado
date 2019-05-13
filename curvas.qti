@@ -1,0 +1,943 @@
+QtiPlot 0.9.8 project file
+<scripting-lang>	muParser
+<windows>	9
+<table>
+Tabla2	19	4	4/04/19 20:38
+geometry	0	444	-1	-1	minimized	
+header	Absorbance[Y]	time[X]	dt[xEr]	dA[yEr]
+ColWidth	133	100	115	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/0
+ReadOnlyColumn	0	0	0	0
+HiddenColumn	0	0	0	0
+Comments					
+WindowLabel	145 (Día 1)	2
+<data>
+0	0.156	1.141	0.007	0.007
+1	0.014	2.071	0.0062	0.003
+2	0.008	2.6852777778	0.007	0.005
+3	0.018	3.144	0.0042	0.003
+4	0.034	3.5639444444	0.0057	0.003
+5	0.054	4.2347777778	0.0049	0.006
+6	0.05	4.6491111111	0.0069	0.004
+7	0.07	5.154	0.0074	0.006
+8	0.073	5.5698333333	0.0072	0.003
+9	0.083	6.103	0.0044	0.007
+10	0.089	6.639	0.0052	0.003
+11	0.099	7.1331666667	0.0051	0.008
+12	0.107	8.1715555556	0.0064	0.004
+13	0.105	8.6513333333	0.0047	0.008
+14	0.117	9.1491666667	0.0056	0.007
+15	0.117	9.6523333333	0.0049	0.005
+16	0.123	10.1241666667	0.0069	0.006
+17	0.092	10.7554444444	0.0058	0.005
+18	0.132	11.54	0.0047	0.009
+</data>
+</table>
+<table>
+Tabla1	12	4	4/04/19 22:12
+geometry	392	444	593	382	minimized	
+header	Time[X]	Absorbance[Y]	dt[xEr]	dA[yEr]
+ColWidth	151	151	115	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/0
+ReadOnlyColumn	0	0	0	0
+HiddenColumn	0	0	0	0
+Comments					
+WindowLabel	145 (Día 2)	2
+<data>
+0	1.0524074074	0.2163333333	0.0050915945	0.004
+1	1.3971111111	0.0076	0.0053919358	0.01
+2	1.9447222222	-0.0008	0.0054899984	0.005
+3	2.344	0.0036	0.005280842	0.006
+4	2.9531666667	0.0034	0.0051864464	0.004
+5	3.4549444444	0.0068	0.0051826348	0.006
+6	3.9212777778	0.009	0.0062095413	0.005
+7	4.4766111111	0.02	0.0096570041	0.01
+8	4.9971111111	0.038	0.00668464	0.004
+9	5.3714444444	0.0504	0.0075769849	0.004
+10	5.9158333333	0.0642	0.0088184384	0.004
+11	6.49	0.0688	0.0051940612	0.005
+</data>
+</table>
+<table>
+Tabla3	19	4	4/04/19 22:13
+geometry	196	444	547	440	minimized	
+header	Time[X]	Absorbance[Y]	dt[xEr]	dA[yEr]
+ColWidth	133	100	115	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/0
+ReadOnlyColumn	0	0	0	0
+HiddenColumn	0	0	0	0
+Comments					
+WindowLabel	144	2
+<data>
+0	1.16	0.03	0.0131309392	0.003
+1	2.1	0	0.0034772709	0.005
+2	3.04	0.02	0.009036108	0.005
+3	3.72	0.03	0.0041029415	0.003
+4	4.04	0.04	0.0189707825	0.005
+5	4.77	0.07	0.003802995	0.006
+6	5.11	0.07	0.0051558748	0.008
+7	5.57	0.08	0.003802995	0.007
+8	5.97	0.08	0.004134926	0.004
+9	6.53	0.1	0.0037856345	0.004
+10	6.96	0.1	0.0044123657	0.003
+11	7.46	0.11	0.0041029415	0.006
+12	8	0.11	0.004134926	0.004
+13	8.6	0.17	0.0105807341	0.005
+14	9.13	0.18	0.0214049108	0.002
+15	9.69	0.19	0.0270371618	0.008
+16	10.24	0.2	0.0362050433	0.003
+17	10.58	0.2	0.0191848534	0.01
+18	11.09	0.2	0.0144811803	0.009
+</data>
+</table>
+<multiLayer>
+Gráfica1	1	1	4/04/19 21:33
+geometry	0	420	564	370	minimized	
+WindowLabel	144	2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	475	256
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	6	6	546	312
+<PageGeometry>0.0107914	0.0186335	0.982014	0.968944</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Time( h)	Absorbance (%)			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	10	75	0	0	0
+ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont1	Cantarell	8	75	0	0	0
+ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont3	Cantarell	8	75	0	0	0
+AxisFont0	Cantarell	8	50	0	0	0
+AxisFont1	Cantarell	8	50	0	0	0
+AxisFont2	Cantarell	8	50	0	0	0
+AxisFont3	Cantarell	8	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#313739	#313739	#313739	#313739
+AxesBaseline	0	0	0	0	
+CanvasFrame	1	#000000
+CanvasBackground	#ffffff	0
+curve	Tabla3_Time	Tabla3_Absorbance	1	0	#00ff00	0	1	5	2	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+ErrorBars	1	Tabla3_Time	Tabla3_Absorbance	Tabla3_dA	1	8	#000000	1	1	1	0
+ErrorBars	0	Tabla3_Time	Tabla3_Absorbance	Tabla3_dt	1	12	#000000	1	1	1	0
+<Function>
+<Type>0</Type>
+<Title>BoltzmannAjustar1</Title>
+<Expression>A2+(A1-A2)/(1+exp((x-x0)/dx))</Expression>
+<Variable>x</Variable>
+<Range>2.1	11.09</Range>
+<Points>100</Points>
+<Constant>A1	0.066444443690043</Constant>
+<Constant>A2	0.20832814056197</Constant>
+<Constant>dx	0.84555910185804</Constant>
+<Constant>x0	8.1035793744853</Constant>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#008000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>0</Visible>
+</Function>
+<Function>
+<Type>0</Type>
+<Title>F1</Title>
+<Expression>0.16</Expression>
+<Variable>x</Variable>
+<Range>0	12</Range>
+<Points>100</Points>
+<Style>1</Style>
+<LineStyle>0</LineStyle>
+<Pen>
+	<Color>#008080</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<Symbol>
+	<Style>1</Style>
+	<Size>3</Size>
+	<SymbolPen>
+		<Color>#000000</Color>
+		<Width>0</Width>
+	</SymbolPen>
+</Symbol>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+<Function>
+<Type>0</Type>
+<Title>F2</Title>
+<Expression>0.16</Expression>
+<Variable>x</Variable>
+<Range>0	12</Range>
+<Points>100</Points>
+<Style>1</Style>
+<LineStyle>0</LineStyle>
+<Pen>
+	<Color>#000000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<Symbol>
+	<Style>1</Style>
+	<Size>3</Size>
+	<SymbolPen>
+		<Color>#000000</Color>
+		<Width>0</Width>
+	</SymbolPen>
+</Symbol>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+<Function>
+<Type>0</Type>
+<Title>BoltzmannAjustar2</Title>
+<Expression>A2+(A1-A2)/(1+exp((x-x0)/dx))</Expression>
+<Variable>x</Variable>
+<Range>1.16	11.09</Range>
+<Points>100</Points>
+<Constant>A1	0.00130180865215323</Constant>
+<Constant>A2	0.252070251736718</Constant>
+<Constant>dx	2.15869855742477</Constant>
+<Constant>x0	7.62407800002394</Constant>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#00ff00</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+scale	0	-0.05	0.25	0	7	5	0	0
+scale	1	-0.05	0.25	0	7	5	0	0
+scale	2	-2	14	0	9	5	0	0
+scale	3	-2	14	0	9	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Gráfica2	1	1	5/04/19 12:47
+geometry	196	420	562	371	minimized	active
+WindowLabel	145(día2)	2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	7	6	509	316
+<PageGeometry>0.0126354	0.0185759	0.918773	0.978328</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Time( h)	Absorbance			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	10	75	0	0	0
+ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont1	Cantarell	8	75	0	0	0
+ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont3	Cantarell	8	75	0	0	0
+AxisFont0	Cantarell	8	50	0	0	0
+AxisFont1	Cantarell	8	50	0	0	0
+AxisFont2	Cantarell	8	50	0	0	0
+AxisFont3	Cantarell	8	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#313739	#313739	#313739	#313739
+AxesBaseline	0	0	0	0	
+CanvasFrame	1	#000000
+CanvasBackground	#ffffff	0
+curve	Tabla1_Time	Tabla1_Absorbance	1	0	#ff0000	0	1	5	2	#0000ff	#0000ff	0	#000000	14	1	2	0	0	11	1
+ErrorBars	1	Tabla1_Time	Tabla1_Absorbance	Tabla1_dA	1	8	#000000	1	1	1	0
+ErrorBars	0	Tabla1_Time	Tabla1_Absorbance	Tabla1_dt	1	12	#000000	1	1	1	0
+<Function>
+<Type>0</Type>
+<Title>BoltzmannAjustar1</Title>
+<Expression>A2+(A1-A2)/(1+exp((x-x0)/dx))</Expression>
+<Variable>x</Variable>
+<Range>1.39	6.49</Range>
+<Points>100</Points>
+<Constant>A1	0.00338914573607723</Constant>
+<Constant>A2	0.0715094796686163</Constant>
+<Constant>dx	0.455125912503293</Constant>
+<Constant>x0	4.99018278630643</Constant>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#ff0000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+<Function>
+<Type>0</Type>
+<Title>F1</Title>
+<Expression>0.216</Expression>
+<Variable>x</Variable>
+<Range>0	10</Range>
+<Points>100</Points>
+<Constant>A1	0.0033891457360772</Constant>
+<Constant>A2	0.071509479668616</Constant>
+<Constant>dx	0.45512591250329</Constant>
+<Constant>x0	4.9901827863064</Constant>
+<Style>1</Style>
+<LineStyle>0</LineStyle>
+<Pen>
+	<Color>#00ff00</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<Symbol>
+	<Style>1</Style>
+	<Size>3</Size>
+	<SymbolPen>
+		<Color>#000000</Color>
+		<Width>0</Width>
+	</SymbolPen>
+</Symbol>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+<Function>
+<Type>0</Type>
+<Title>F2</Title>
+<Expression>0.216</Expression>
+<Variable>x</Variable>
+<Range>0	10</Range>
+<Points>100</Points>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#0000ff</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+scale	0	-0.05	0.25	0	7	5	0	0
+scale	1	-0.05	0.25	0	7	5	0	0
+scale	2	-2	12	0	8	5	0	0
+scale	3	-2	12	0	8	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>6.9471264367816</x>
+<y>0.16128404669261</y>
+<right>13.0298850574713</right>
+<bottom>0.00136186770428015</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>0</visible>
+<Text>
+\l(3)145 (día 2)
+\l(3)%(3)
+\l(4)%(4)
+\l(4)%(4)
+\l(5)%(5)
+\l(6)%(6)
+</Text>
+<Font>Cantarell	11	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>1</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Gráfica3	1	1	5/04/19 13:01
+geometry	784	444	466	362	minimized	
+WindowLabel	145(día1)	2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	7	6	414	305
+<PageGeometry>0.0152838	0.0191083	0.90393	0.971338</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Time( h)	Absorbance			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	10	75	0	0	0
+ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont1	Cantarell	8	75	0	0	0
+ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont3	Cantarell	8	75	0	0	0
+AxisFont0	Cantarell	8	50	0	0	0
+AxisFont1	Cantarell	8	50	0	0	0
+AxisFont2	Cantarell	8	50	0	0	0
+AxisFont3	Cantarell	8	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#313739	#313739	#313739	#313739
+AxesBaseline	0	0	0	0	
+CanvasFrame	1	#000000
+CanvasBackground	#ffffff	0
+curve	Tabla2_time	Tabla2_Absorbance	1	0	#000000	0	1	5	1	#000000	#ff0000	0	#000000	14	1	2	0	0	18	1
+ErrorBars	0	Tabla2_time	Tabla2_Absorbance	Tabla2_dt	2	12	#000000	1	1	1	0
+ErrorBars	1	Tabla2_time	Tabla2_Absorbance	Tabla2_dA	1	8	#000000	1	1	1	0
+<Function>
+<Type>0</Type>
+<Title>BoltzmannAjustar1</Title>
+<Expression>A2+(A1-A2)/(1+exp((x-x0)/dx))</Expression>
+<Variable>x</Variable>
+<Range>2	11.54</Range>
+<Points>100</Points>
+<Constant>A1	-0.0176133515457377</Constant>
+<Constant>A2	0.118909156556836</Constant>
+<Constant>dx	1.57105601991001</Constant>
+<Constant>x0	4.45261264942146</Constant>
+<Style>0</Style>
+<LineStyle>1</LineStyle>
+<Pen>
+	<Color>#000000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+<Function>
+<Type>0</Type>
+<Title>F1</Title>
+<Expression>0.156</Expression>
+<Variable>x</Variable>
+<Range>0	12</Range>
+<Points>100</Points>
+<Style>1</Style>
+<LineStyle>0</LineStyle>
+<Pen>
+	<Color>#ff0000</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<Symbol>
+	<Style>1</Style>
+	<Size>3</Size>
+	<SymbolPen>
+		<Color>#000000</Color>
+		<Width>0</Width>
+	</SymbolPen>
+</Symbol>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+<Function>
+<Type>0</Type>
+<Title>F2</Title>
+<Expression>0.156</Expression>
+<Variable>x</Variable>
+<Range>0	12</Range>
+<Points>100</Points>
+<Style>1</Style>
+<LineStyle>0</LineStyle>
+<Pen>
+	<Color>#00ff00</Color>
+	<Style>0</Style>
+	<Width>1</Width>
+</Pen>
+<Symbol>
+	<Style>1</Style>
+	<Size>3</Size>
+	<SymbolPen>
+		<Color>#000000</Color>
+		<Width>0</Width>
+	</SymbolPen>
+</Symbol>
+<xAxis>2</xAxis>
+<yAxis>0</yAxis>
+<CurveType>0</CurveType>
+<Visible>1</Visible>
+</Function>
+scale	0	0	0.2	0	5	5	0	0
+scale	1	0	0.2	0	5	5	0	0
+scale	2	0	12	0	7	5	0	0
+scale	3	0	12	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<multiLayer>
+Gráfica4	1	1	5/04/19 13:10
+geometry	980	444	562	368	minimized	
+WindowLabel	todas 	2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	400	300
+Alignement	0	0
+<AlignPolicy>0</AlignPolicy>
+<CommonAxes>0</CommonAxes>
+<graph>
+ggeometry	7	6	397	313
+<PageGeometry>0.0126354	0.01875	0.716606	0.978125</PageGeometry>
+PlotTitle		#000000	4228
+<Antialiasing>0</Antialiasing>
+<Autoscaling>1</Autoscaling>
+<ScaleFonts>1</ScaleFonts>
+<GridOnTop>0</GridOnTop>
+<MissingDataGap>1</MissingDataGap>
+Background	#ffffff	0
+Margin	0
+Border	0	#000000
+grid	0	0	0	0	#0000ff	0	0.5	#a0a0a4	2	0.4	#0000ff	0	0.5	#a0a0a4	2	0.4	0	0	2	0	0
+EnabledAxes	1	1	1	1	
+AxesTitles	Time( h)	Absorbance			
+AxesTitleColors	#000000	#000000	#000000	#000000	
+AxesTitleAlignment	5124	5124	5124	5124
+AxesTitleDistance	2	2	2	2
+InvertedTitle	0	0	0	0
+TitleFont	Cantarell	10	75	0	0	0
+ScaleFont0	Cantarell	9	75	0	0	0
+ScaleFont1	Cantarell	8	75	0	0	0
+ScaleFont2	Cantarell	9	75	0	0	0
+ScaleFont3	Cantarell	8	75	0	0	0
+AxisFont0	Cantarell	8	50	0	0	0
+AxisFont1	Cantarell	8	50	0	0	0
+AxisFont2	Cantarell	8	50	0	0	0
+AxisFont3	Cantarell	8	50	0	0	0
+AxesColors	#000000	#000000	#000000	#000000
+AxesNumberColors	#313739	#313739	#313739	#313739
+AxesBaseline	0	0	0	0	
+CanvasFrame	1	#000000
+CanvasBackground	#ffffff	0
+curve	Tabla2_time	Tabla2_Absorbance	1	0	#000000	0	1	5	1	#000000	#ff0000	0	#000000	14	1	2	0	0	18	1
+ErrorBars	0	Tabla2_time	Tabla2_Absorbance	Tabla2_dt	2	12	#000000	1	1	1	0
+ErrorBars	1	Tabla2_time	Tabla2_Absorbance	Tabla2_dA	1	8	#000000	1	1	1	0
+curve	Tabla1_Time	Tabla1_Absorbance	1	0	#ff0000	0	1	7	2	#0000ff	#0000ff	0	#000000	14	1	2	0	0	11	1
+ErrorBars	0	Tabla1_Time	Tabla1_Absorbance	Tabla1_dt	1	12	#000000	1	1	1	3
+ErrorBars	1	Tabla1_Time	Tabla1_Absorbance	Tabla1_dA	1	8	#000000	1	1	1	3
+curve	Tabla3_Time	Tabla3_Absorbance	1	0	#00ff00	0	1	7	2	#00ff00	#00ff00	0	#000000	14	1	2	0	0	19	1
+ErrorBars	0	Tabla3_Time	Tabla3_Absorbance	Tabla3_dt	1	12	#000000	1	1	1	6
+ErrorBars	1	Tabla3_Time	Tabla3_Absorbance	Tabla3_dA	1	8	#000000	1	1	1	6
+scale	0	-0.05	0.25	0	7	5	0	0
+scale	1	-0.05	0.25	0	7	5	0	0
+scale	2	0	12	0	7	5	0	0
+scale	3	0	12	0	7	5	0	0
+LabelsFormat	0	6	0	6	0	6	0	6
+AxisType	0	0	0	0	
+MajorTicks	1	0	1	0
+MinorTicks	1	0	1	0
+TicksLength	5	9
+DrawAxesBackbone	1	1	1	1	1
+AxesLineWidth	1
+LabelsRotation	0	0	0	0
+LabelsPrefix				
+LabelsSuffix				
+TickLabelsSpace	4	4	4	4
+ShowTicksPolicy	0	0	0	0
+EnabledTickLabels	1	0	1	0
+<Legend>
+<Frame>1</Frame>
+<Color>#000000</Color>
+<FrameWidth>1</FrameWidth>
+<LineStyle>0</LineStyle>
+<x>12.074303405573</x>
+<y>0.14133858267717</y>
+<right>17.5727554179567</right>
+<bottom>0.0681102362204724</bottom>
+<attachTo>1</attachTo>
+<onTop>1</onTop>
+<visible>1</visible>
+<Text>
+\l(1)145 (1st day)
+\l(4)145 (2nd day)
+\l(7)144
+</Text>
+<Font>Cantarell	9	50	0	0	0</Font>
+<TextColor>#000000</TextColor>
+<Background>#ffffff</Background>
+<Alpha>0</Alpha>
+<Angle>0</Angle>
+<AutoUpdate>1</AutoUpdate>
+<TeXOutput>1</TeXOutput>
+</Legend>
+</graph>
+<LinkXAxes>0</LinkXAxes>
+<ScaleLayers>1</ScaleLayers>
+</multiLayer>
+<table>
+Tabla4	30	5	11/04/19 07:02
+geometry	583	4	445	220	
+header	1[X]	2[Y]	3[Y]	4[Y]	curva[Y]
+ColWidth	100	100	100	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13	0;0/13	0;0/13	0;0/13
+ReadOnlyColumn	0	0	0	0	0
+HiddenColumn	0	0	0	0	0
+Comments						
+WindowLabel		2
+<data>
+0	2.35	0.16	0.0050915945	0.003	144
+</data>
+</table>
+<table>
+Tabla5	100	2	11/04/19 07:39
+geometry	588	444	445	220	minimized	
+header	1[X]	2[Y]
+ColWidth	100	100	
+<com>
+</com>
+ColType	0;0/13	0;0/13
+ReadOnlyColumn	0	0
+HiddenColumn	0	0
+Comments			
+WindowLabel	Data set generated from curve: F1	2
+<data>
+0	0	0.216
+1	0.1010101010101	0.216
+2	0.2020202020202	0.216
+3	0.3030303030303	0.216
+4	0.4040404040404	0.216
+5	0.5050505050505	0.216
+6	0.6060606060606	0.216
+7	0.7070707070707	0.216
+8	0.8080808080808	0.216
+9	0.9090909090909	0.216
+10	1.010101010101	0.216
+11	1.111111111111	0.216
+12	1.212121212121	0.216
+13	1.313131313131	0.216
+14	1.414141414141	0.216
+15	1.515151515152	0.216
+16	1.616161616162	0.216
+17	1.717171717172	0.216
+18	1.818181818182	0.216
+19	1.919191919192	0.216
+20	2.020202020202	0.216
+21	2.121212121212	0.216
+22	2.222222222222	0.216
+23	2.323232323232	0.216
+24	2.424242424242	0.216
+25	2.525252525253	0.216
+26	2.626262626263	0.216
+27	2.727272727273	0.216
+28	2.828282828283	0.216
+29	2.929292929293	0.216
+30	3.030303030303	0.216
+31	3.131313131313	0.216
+32	3.232323232323	0.216
+33	3.333333333333	0.216
+34	3.434343434343	0.216
+35	3.535353535354	0.216
+36	3.636363636364	0.216
+37	3.737373737374	0.216
+38	3.838383838384	0.216
+39	3.939393939394	0.216
+40	4.040404040404	0.216
+41	4.141414141414	0.216
+42	4.242424242424	0.216
+43	4.343434343434	0.216
+44	4.444444444444	0.216
+45	4.545454545455	0.216
+46	4.646464646465	0.216
+47	4.747474747475	0.216
+48	4.848484848485	0.216
+49	4.949494949495	0.216
+50	5.050505050505	0.216
+51	5.151515151515	0.216
+52	5.252525252525	0.216
+53	5.353535353535	0.216
+54	5.454545454545	0.216
+55	5.555555555556	0.216
+56	5.656565656566	0.216
+57	5.757575757576	0.216
+58	5.858585858586	0.216
+59	5.959595959596	0.216
+60	6.060606060606	0.216
+61	6.161616161616	0.216
+62	6.262626262626	0.216
+63	6.363636363636	0.216
+64	6.464646464646	0.216
+65	6.565656565657	0.216
+66	6.666666666667	0.216
+67	6.767676767677	0.216
+68	6.868686868687	0.216
+69	6.969696969697	0.216
+70	7.070707070707	0.216
+71	7.171717171717	0.216
+72	7.272727272727	0.216
+73	7.373737373737	0.216
+74	7.474747474747	0.216
+75	7.575757575758	0.216
+76	7.676767676768	0.216
+77	7.777777777778	0.216
+78	7.878787878788	0.216
+79	7.979797979798	0.216
+80	8.080808080808	0.216
+81	8.181818181818	0.216
+82	8.282828282828	0.216
+83	8.383838383838	0.216
+84	8.484848484848	0.216
+85	8.585858585859	0.216
+86	8.686868686869	0.216
+87	8.787878787879	0.216
+88	8.888888888889	0.216
+89	8.989898989899	0.216
+90	9.090909090909	0.216
+91	9.191919191919	0.216
+92	9.292929292929	0.216
+93	9.393939393939	0.216
+94	9.494949494949	0.216
+95	9.59595959596	0.216
+96	9.69696969697	0.216
+97	9.79797979798	0.216
+98	9.89898989899	0.216
+99	10	0.216
+</data>
+</table>
+<open>1</open>
+<log>
+[5/04/19 12:56	Gráfica: ''Gráfica2'']
+Boltzmann (Sigmoidal) Fit of dataset: Tabla1_Absorbance, usando función : A2+(A1-A2)/(1+exp((x-x0)/dx))
+Método de Pesado: Sin pesado
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0.0001
+Desde x = 1.397111111100000e+00 a x = 6.490000000000000e+00
+A1 (init value) = 3.389145736077226e-03 +/- 1.179811740937753e-03
+A2 (final value) = 7.150947966861632e-02 +/- 3.015384196444168e-03
+x0 (center) = 4.990182786306435e+00 +/- 6.678259116430153e-02
+dx (time constant) = 4.551259125032931e-01 +/- 5.904086811080304e-02
+--------------------------------------------------------------------------------------
+Chi^2/doF = 5.509573227900638e-06
+R^2 = 0.994305725204177
+Adjusted R^2 = 0.990509542006961
+RMSE (Root Mean Squared Error) = 0.00234724801158732
+RSS (Residual Sum of Squares) = 3.85670125953045e-05
+---------------------------------------------------------------------------------------
+Iteraciones = 37
+Estado = success
+---------------------------------------------------------------------------------------
+[5/04/19 13:02	Gráfica: ''Gráfica3'']
+Boltzmann (Sigmoidal) Fit of dataset: Tabla2_Absorbance, usando función : A2+(A1-A2)/(1+exp((x-x0)/dx))
+Método de Pesado: Sin pesado
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0.0001
+Desde x = 2.071000000000000e+00 a x = 1.154000000000000e+01
+A1 (init value) = -1.761335154573767e-02 +/- 3.211149460104420e-02
+A2 (final value) = 1.189091565568361e-01 +/- 6.656229371748746e-03
+x0 (center) = 4.452612649421462e+00 +/- 8.000847873750792e-01
+dx (time constant) = 1.571056019910007e+00 +/- 5.472081507616923e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 8.525690499930890e-05
+R^2 = 0.954610822846284
+Adjusted R^2 = 0.940644922183602
+RMSE (Root Mean Squared Error) = 0.00923346657541516
+RSS (Residual Sum of Squares) = 0.00119359666999032
+---------------------------------------------------------------------------------------
+Iteraciones = 29
+Estado = success
+---------------------------------------------------------------------------------------
+[5/04/19 13:04	Gráfica: ''Gráfica1'']
+Boltzmann (Sigmoidal) Fit of dataset: Tabla3_time, usando función : A2+(A1-A2)/(1+exp((x-x0)/dx))
+Método de Pesado: Sin pesado
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0.0001
+Desde x = 2.350000000000000e+00 a x = 1.109000000000000e+01
+A1 (init value) = 6.644492065126094e-02 +/- 1.445726920132096e-02
+A2 (final value) = 2.083253729198171e-01 +/- 2.965995737460351e-02
+x0 (center) = 8.103525762538700e+00 +/- 6.302517926568645e-01
+dx (time constant) = 8.455069172929535e-01 +/- 5.510786129700685e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1.005359274194083e-03
+R^2 = 0.784657427031952
+Adjusted R^2 = 0.718398173811014
+RMSE (Root Mean Squared Error) = 0.0317074009372273
+RSS (Residual Sum of Squares) = 0.0140750298387172
+---------------------------------------------------------------------------------------
+Iteraciones = 27
+Estado = success
+---------------------------------------------------------------------------------------
+[5/04/19 13:05	Gráfica: ''Gráfica1'']
+Boltzmann (Sigmoidal) Fit of dataset: Tabla3_time, usando función : A2+(A1-A2)/(1+exp((x-x0)/dx))
+Método de Pesado: Sin pesado
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0.0001
+Desde x = 2.350000000000000e+00 a x = 1.109000000000000e+01
+A1 (init value) = 6.644444369004338e-02 +/- 1.445777883442608e-02
+A2 (final value) = 2.083281405619685e-01 +/- 2.966303290495408e-02
+x0 (center) = 8.103579374485298e+00 +/- 6.302986004161690e-01
+dx (time constant) = 8.455591018580429e-01 +/- 5.511168563685805e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1.005359273627920e-03
+R^2 = 0.784657427153221
+Adjusted R^2 = 0.718398173969596
+RMSE (Root Mean Squared Error) = 0.0317074009282994
+RSS (Residual Sum of Squares) = 0.0140750298307909
+---------------------------------------------------------------------------------------
+Iteraciones = 1
+Estado = success
+---------------------------------------------------------------------------------------
+[5/04/19 13:10	Gráfica: ''Gráfica3'']
+Boltzmann (Sigmoidal) Fit of dataset: Tabla2_Absorbance, usando función : A2+(A1-A2)/(1+exp((x-x0)/dx))
+Método de Pesado: Sin pesado
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0.0001
+Desde x = 2.071000000000000e+00 a x = 1.154000000000000e+01
+A1 (init value) = -1.761335154573767e-02 +/- 3.211149460104420e-02
+A2 (final value) = 1.189091565568361e-01 +/- 6.656229371748746e-03
+x0 (center) = 4.452612649421462e+00 +/- 8.000847873750792e-01
+dx (time constant) = 1.571056019910007e+00 +/- 5.472081507616923e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 8.525690499930890e-05
+R^2 = 0.954610822846284
+Adjusted R^2 = 0.940644922183602
+RMSE (Root Mean Squared Error) = 0.00923346657541516
+RSS (Residual Sum of Squares) = 0.00119359666999032
+---------------------------------------------------------------------------------------
+Iteraciones = 29
+Estado = success
+---------------------------------------------------------------------------------------
+
+[11/04/19 07:36	Gráfica: ''Gráfica1'']
+Boltzmann (Sigmoidal) Fit of dataset: Tabla3_Absorbance, usando función : A2+(A1-A2)/(1+exp((x-x0)/dx))
+Método de Pesado: Sin pesado
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0.0001
+Desde x = 2.100000000000000e+00 a x = 1.109000000000000e+01
+A1 (init value) = -6.796971192912585e-02 +/- 1.048653681696705e-01
+A2 (final value) = 3.250416064730330e-01 +/- 1.702137325428506e-01
+x0 (center) = 7.677680070997620e+00 +/- 1.774550882366979e+00
+dx (time constant) = 3.737736945455176e+00 +/- 2.863397936438682e+00
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1.499589754795340e-04
+R^2 = 0.972321349285254
+Adjusted R^2 = 0.963804841373025
+RMSE (Root Mean Squared Error) = 0.0122457737803511
+RSS (Residual Sum of Squares) = 0.00209942565671348
+---------------------------------------------------------------------------------------
+Iteraciones = 101
+Estado = success
+---------------------------------------------------------------------------------------
+[11/04/19 07:37	Gráfica: ''Gráfica1'']
+Boltzmann (Sigmoidal) Fit of dataset: Tabla3_Absorbance, usando función : A2+(A1-A2)/(1+exp((x-x0)/dx))
+Método de Pesado: Sin pesado
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0.0001
+Desde x = 1.160000000000000e+00 a x = 1.109000000000000e+01
+A1 (init value) = 1.301808652153231e-03 +/- 2.001794572372550e-02
+A2 (final value) = 2.520702517367175e-01 +/- 4.521302550677561e-02
+x0 (center) = 7.624078000023937e+00 +/- 7.212448256690828e-01
+dx (time constant) = 2.158698557424775e+00 +/- 7.176301286211086e-01
+--------------------------------------------------------------------------------------
+Chi^2/doF = 1.809341460873653e-04
+R^2 = 0.966765769763535
+Adjusted R^2 = 0.957270275410259
+RMSE (Root Mean Squared Error) = 0.0134511763830293
+RSS (Residual Sum of Squares) = 0.00271401219131048
+---------------------------------------------------------------------------------------
+Iteraciones = 10
+Estado = success
+---------------------------------------------------------------------------------------
+</log>
